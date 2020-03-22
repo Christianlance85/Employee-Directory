@@ -13,30 +13,6 @@ As a person looking to check my employees
 I want a centralized table
 So that I can sort and find employees
 
-
-## Screenshot of Completed Application
-
-![Budget-Tracker](/public/other.JPG)
-
-
-
-## Heroku Link
-# Budget-Tracker
-
-This is a repository for the Vanderbilt Coding Bootcamp Homework 18
-By | Christian Lance
-
-
-## Purpose
-This is a GitHub repository for a Budget Tracker application. 
-
-
-## User Story
-AS A person looking track my spending
-I want to be able to log transactions
-So That I can identify trends in my spending
-
-
 ## Screenshot of Completed Application
 
 ![Employee-Directory](/public/Capture.JPG)
